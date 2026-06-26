@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mani-2308/Nxt-Trendz/static/css/main.b4f5550e.chunk.css",
+    "main.js": "/Mani-2308/Nxt-Trendz/static/js/main.75e5777f.chunk.js",
+    "main.js.map": "/Mani-2308/Nxt-Trendz/static/js/main.75e5777f.chunk.js.map",
+    "runtime-main.js": "/Mani-2308/Nxt-Trendz/static/js/runtime-main.ba0cb257.js",
+    "runtime-main.js.map": "/Mani-2308/Nxt-Trendz/static/js/runtime-main.ba0cb257.js.map",
+    "static/js/2.8f52271a.chunk.js": "/Mani-2308/Nxt-Trendz/static/js/2.8f52271a.chunk.js",
+    "static/js/2.8f52271a.chunk.js.map": "/Mani-2308/Nxt-Trendz/static/js/2.8f52271a.chunk.js.map",
+    "index.html": "/Mani-2308/Nxt-Trendz/index.html",
+    "static/css/main.b4f5550e.chunk.css.map": "/Mani-2308/Nxt-Trendz/static/css/main.b4f5550e.chunk.css.map",
+    "static/js/2.8f52271a.chunk.js.LICENSE.txt": "/Mani-2308/Nxt-Trendz/static/js/2.8f52271a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0cb257.js",
+    "static/js/2.8f52271a.chunk.js",
+    "static/css/main.b4f5550e.chunk.css",
+    "static/js/main.75e5777f.chunk.js"
+  ]
+}
