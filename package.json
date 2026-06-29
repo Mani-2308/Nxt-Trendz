@@ -1,7 +1,7 @@
 {
   "name": "app-name",
   "private": true,
-  "homepage": "https://github.com/Mani-2308/Nxt-Trendz",
+  "homepage": "https://mani-2308.github.io/Nxt-Trendz",
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
